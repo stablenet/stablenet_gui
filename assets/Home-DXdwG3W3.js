@@ -114,7 +114,7 @@ const C = { "aria-label": "title" },
                               ]))
                             : (n(),
                               a(
-                                  "div",
+                                  "pre",
                                   {
                                       key: 1,
                                       "aria-label": "content",
