@@ -1,14 +1,14 @@
 window.config={
     logo: '/assets/logo.png', // 网站logo
     title:"稳联云", // 网站标题
-    host:"https://board.stablenet.top/", // 后端接口地址
+    host:"https://xyz.stableproxy.top/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
     },
     SignPage: {
         title: '稳联相伴，网络更宽！', // 登录页标题
-        desc1: 'High-speed network covering the whole world', // 登录页描述1
+        desc1: 'Stay steady, connect widely – Broader networks with us!', // 登录页描述1
         desc2: 'Your high-speed journey starts with stableproxy', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
