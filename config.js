@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://images.stablenet.top/logo.png', // 网站logo
+    logo: '/assets/logo.png', // 网站logo
     title:"稳联云", // 网站标题
     host:"https://board.stablenet.top/", // 后端接口地址
     storeHome: {
@@ -7,9 +7,9 @@ window.config={
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
     },
     SignPage: {
-        title: '覆盖全球的高速网络，您的高速旅程从稳联云 开始', // 登录页标题
+        title: '稳联相伴，网络更宽！', // 登录页标题
         desc1: 'High-speed network covering the whole world', // 登录页描述1
-        desc2: 'Your high-speed journey starts with AirBus', // 登录页描述2
+        desc2: 'Your high-speed journey starts with stableproxy', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {
